@@ -1,4 +1,4 @@
-# My Github Profile @ Ihsan Lana Valenza
+# My Github Profile Ihsan Lana Valenza
 ![GitHub Banner](img/banner.png)
 
 

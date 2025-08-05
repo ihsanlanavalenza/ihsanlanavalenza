@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Ihsan Lana Valenza
-### 🌟 Fullstack Web Developer | Software Engineer Intern
-
+# My Github Profile @ Ihsan Lana Valenza
 ![GitHub Banner](img/banner.png)
 
 

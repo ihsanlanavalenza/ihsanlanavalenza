@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ihsan Lana Valenza
-## 🌟 Fullstack Web Developer | Software Engineer Intern
+### 🌟 Fullstack Web Developer | Software Engineer Intern
 
-[![GitHub Banner](https://github.com/ihsanlanavalenza/img/banner.png)](https://github.com/ihsanlanavalenza)
+![IhsanBanner](https://github.com/ihsanlanavalenza/img/banner.png)](https://github.com/ihsanlanavalenza)
 
 
 I'm a fullstack web developer passionate about building impactful digital solutions — from agricultural e-commerce platforms to flight monitoring systems. I craft elegant code, meaningful user experiences, and scalable systems that solve real-world problems.

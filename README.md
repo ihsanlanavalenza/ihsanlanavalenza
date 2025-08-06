@@ -89,9 +89,8 @@ Created a flight monitoring dashboard for AirNav’s internal use, enabling more
 ## 🔗 Let's Connect
 
 - 🌐 Portfolio: *[san_lana.dev.io](san-lana.dev.io)*  
-- 💼 LinkedIn: *Let’s build your tech story together*  
+- 💼 LinkedIn:[linkedin.com/in/ihsanlana864](https://www.linkedin.com/in/ihsanlanavakenza) 
 - 📧 Email: *ihsanlana864@gmail.com | Need a professional message or intro? Just ask!*
-- 🔗 LinkedIn: [linkedin.com/in/ihsanlana864](https://www.linkedin.com/in/ihsanlana864)
 - 🌍 GitHub: [github.com/ihsanlanavalenza](https://github.com/ihsanlanavalenza)
 - 📸 Instagram: [instagram.com/ihsanlv_](https://www.instagram.com/ihsanlv_)
 ---

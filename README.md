@@ -87,21 +87,7 @@ Created a flight monitoring dashboard for AirNav’s internal use, enabling more
 
 ---
 
-## 🔧 Tech Stack
 
-- **Frontend**: Vue.js, Nuxt 3, TailwindCSS, Bootstrap  
-- **Backend**: Laravel, Node.js, CodeIgniter  
-- **Database**: MySQL, Mongo DB, PostgreSQL
-- **DevOps**: Docker, CI/CD pipelines
-- **Cloud**: AWS, DigitalOcean, Firebase
-- **Version Control**: Git, GitHub, GitLab
-- **Deployment**: Vercel, Netlify, DigitalOcean
-- **APIs**: RESTful, GraphQL
-- **Testing**: PHPUnit, Cypress 
-- **Language**: TypeScript, PHP, JavaScript  
-- **Tools**: Git, Vite, NPM
-
----
 
 
 ## 🔗 Let's Connect
